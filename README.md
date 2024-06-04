@@ -1,9 +1,3 @@
-# Advance_project-1
-CHAT BOT Project in AWS
-
-# Let's create a summary of the steps to build a cloud-based chatbot using AWS in markdown format and save it to a .md file.
-
-summary_content = """
 # Cloud-Based Chatbot for Customer Support using AWS
 
 This project involves creating an advanced cloud-based chatbot that leverages AWS services to provide real-time assistance across various channels, such as web, mobile, and social media. The chatbot uses Amazon Lex for natural language understanding (NLU) and automatic speech recognition (ASR) to engage users in natural conversations. It integrates with other AWS services to offer a comprehensive solution for customer support.
