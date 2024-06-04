@@ -125,12 +125,3 @@ This project involves creating an advanced cloud-based chatbot that leverages AW
 - **AWS Documentation**: Refer to AWS documentation for detailed steps and best practices.
 - **AWS Training and Certification**: Consider AWS courses for in-depth learning.
 
-By following these steps, you'll create a robust, AI-driven chatbot that enhances customer support operations. If you have any specific questions or need further assistance with any step, feel free to ask!
-"""
-
-# Save the content to a .md file
-file_path = '/mnt/data/AWS_Chatbot_Project_Summary.md'
-with open(file_path, 'w') as file:
-    file.write(summary_content)
-
-file_path
